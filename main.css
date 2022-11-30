@@ -1,3 +1,10 @@
 body{
     background-color: blue;
+} 
+p{
+	color:red;
+} 
+h2{
+	text-decoration:center;
 }
+
